@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.197224a6.chunk.css",
+    "main.js": "/static/js/main.e4858cc7.chunk.js",
+    "main.js.map": "/static/js/main.e4858cc7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae5d54a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae5d54a5.js.map",
+    "static/js/2.00bfd9f7.chunk.js": "/static/js/2.00bfd9f7.chunk.js",
+    "static/js/2.00bfd9f7.chunk.js.map": "/static/js/2.00bfd9f7.chunk.js.map",
+    "static/js/3.7cab563c.chunk.js": "/static/js/3.7cab563c.chunk.js",
+    "static/js/3.7cab563c.chunk.js.map": "/static/js/3.7cab563c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.197224a6.chunk.css.map": "/static/css/main.197224a6.chunk.css.map",
+    "static/js/2.00bfd9f7.chunk.js.LICENSE.txt": "/static/js/2.00bfd9f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/IMG-20201101-WA0198.5efea24b.jpg",
+    "static/media/duck01.d9266121.svg": "/static/media/duck01.d9266121.svg",
+    "static/media/duck03.9ce0d76a.svg": "/static/media/duck03.9ce0d76a.svg",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae5d54a5.js",
+    "static/js/2.00bfd9f7.chunk.js",
+    "static/css/main.197224a6.chunk.css",
+    "static/js/main.e4858cc7.chunk.js"
+  ]
+}
